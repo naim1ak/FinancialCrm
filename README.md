@@ -1,6 +1,6 @@
 # 💼 Finansal CRM Uygulaması
 
-Bu proje, **Murat Yücedağ - C# Eğitim Kampı** derslerinin **28, 29 ve 30. bölümlerinde** geliştirilmiştir.  
+Bu proje, **Murat Yücedağ - C# Eğitim Kampı** derslerinden geliştirilmiştir.  
 Amaç, Windows Form uygulaması kullanarak finansal işlemleri yönetebilen basit bir **CRM (Customer Relationship Management)** sistemi geliştirmektir.
 
 ---
